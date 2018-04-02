@@ -1,0 +1,681 @@
+/*==========  Desktop First Method  ==========*/
+@media only screen and (max-width : 1680px){
+	/*Portfolio*/
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .top_string{
+		font-size: 26.9px;
+		margin-top: 15.4px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont h3{
+		font-size: 18.5px;
+		margin-bottom: 15.4px;
+		margin-top: -5.4px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .hr{
+		width: 150px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .port_item_descr{
+		margin-bottom: 23px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont p{
+		font-size: 16.15px;
+		line-height: 20.8px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .button_wrap .button{
+		font-size: 13.8px;
+		padding: 7.7px 18.5px;
+	}
+}
+@media only screen and (max-width : 1366px) {
+	/*Portfolio*/
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .top_string{
+		font-size: 23.333px;
+		margin-top: 15px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont h3{
+		font-size: 16px;
+		margin-bottom: 14px;
+		margin-top: -2px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .hr{
+		width: 130px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .port_item_descr{
+		margin-bottom: 15px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont p{
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .button_wrap .button{
+		font-size: 12px;
+		padding: 7px 23px;
+	}
+}	
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+@media only screen and (max-width : 1024px) {
+	/*Portfolio*/
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .top_string{
+		font-size: 19.4px;
+		margin-top: 3.5px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont h3{
+		font-size: 13.3px;
+		margin-bottom: 11.7px;
+		margin-top: -1.7px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .hr{
+		width: 108.3px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .port_item_descr{
+		margin-bottom: 12.5px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont p{
+		font-size: 11.7px;
+		line-height: 16.7px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .button_wrap .button{
+		font-size: 10px;
+		padding: 5.8px 19.2px;
+	}
+	/*About*/
+	.about .section_about .section_header h2{
+		margin-top: 0px;
+	}
+	.about .section_about .section_content{
+		margin-top: 15px;
+	}
+	.about .section_about .section_header .s_description_wrap .s_description{
+		font-size: 31px;
+	}
+	.about .section_about .section_content p{
+		font-size: 17px;
+		line-height: 26px;
+		margin-bottom: 12px;
+	}
+	.about .section_about .about_social p{
+		font-size: 20px;
+	}
+	.about .section_about .about_social .phone, .about .section_about .about_social .mail{
+		font-size: 16px;
+	}
+	.about .section_about .about_social .col-md-4{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.about .section_about .about_social .phone, .about .section_about .about_social .mail{
+		font-size: 15.5px;
+	}
+	.advantages .section_content .advantages_item p{
+		font-size: 15.5px;
+	}
+	.about .section_about .about_social .social_vk{
+		margin-top: 25px;
+	}
+	.about .section_about .about_social .social_mail{
+		margin-top: 25px;
+	}
+	.about .section_about .about_social .social_tel{
+		margin-top: 25px;
+	}
+	/*Team*/
+	.team .section_content .team_item{
+		width: auto;
+	}
+	.team .section_content .team_item .team_item_descr strong{
+		font-size: 20px;
+	}
+	.team .section_content .team_item .team_item_descr p{
+		font-size: 16.4px;
+	}
+	.team .section_content .team_item .team_item_descr{
+		margin-left: 12px;
+	}
+	/*Price*/
+	.price .section_content .price_item{
+		width: auto;
+	}
+	.price .section_content .price_item .hr{
+		width: auto;
+	}
+	.price .section_content .price_item .price_item_descr p{
+		font-size: 17px;
+	}
+	.price .section_content .price_item .button_wrap .button{
+		font-size: 17px;
+		padding: 10px 28px;
+	}
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+	/*About*/
+	.about .section_about .section_header .s_description_wrap .s_description{
+		font-size: 35px;
+	}
+	.about .section_about .about_social .col-md-4{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.about .section_about .about_social{
+		margin-top: 10px;
+	}
+	
+	/*Portfolio*/
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .top_string{
+		font-size: 32.3px;
+		margin-top: 18.5px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont h3{
+		font-size: 22.2px;
+		margin-bottom: 18.5px;
+		margin-top: -6.5px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .hr{
+		width: 180px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .port_item_descr{
+		margin-bottom: 27.6px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont p{
+		font-size: 19.4px;
+		line-height: 25px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .button_wrap .button{
+		font-size: 16.6px;
+		padding: 9.24px 22.2px;
+	}
+	/*Advantages*/
+	.advantages .section_content .advantages_item img
+	{
+		max-width: 48px
+	}
+	.advantages .section_content .advantages_item{
+		margin-bottom: 45px;
+	}
+	.advantages .section_content .advantages_item h4{
+		margin: 8px 0;
+	}
+	.advantages .section_content .advantages_item .advantages_img_4{
+		max-width: 51px;
+	}
+	/*Team*/
+	.team .section_content .col-sm-4{
+		padding-right: 5px;
+		padding-left: 5px;
+	}
+	.team .section_content .team_item .team_item_descr strong{
+		font-size: 18px;
+	}
+	.team .section_content .team_item .team_item_descr p{
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.team .section_content .team_item .team_item_descr{
+		margin-left: 8px;
+		margin-top: 212px;
+	}
+	.team .section_content .team_item .team_item_hover{
+		width: 220px;
+	}
+	/*Price*/
+	.price .section_content .price_item{
+		margin-bottom: 100px;
+	}
+	.price .section_content .media_980{
+		margin: 0 25%;
+		width: 50%;
+	}
+	/*Reviews*/
+	.reviews .section_content .reviews_item_wrap .reviews_item .reviews_item_descr{
+		text-align: center;
+	}
+	.reviews .section_content .reviews_item_wrap{
+		margin: 0 30px;
+	}
+	.reviews .section_content .reviews_item_wrap .reviews_item .reviews_item_descr p:nth-child(1){
+		padding-bottom: 50px;
+	}
+	.reviews .section_content .reviews_item_wrap .reviews_item{
+		padding: 0;
+	}
+	.reviews .section_header .s_description_wrap .s_description{
+		margin-bottom: 45px;
+	}
+
+	/*Footer*/
+	.main_footer{
+		box-shadow: 0 0 0 495px rgba(0, 0, 0, 0.6) inset;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	/*Portfolio*/
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .top_string{
+		font-size: 42px;
+		margin-top: 24px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont h3{
+		font-size: 28.9px;
+		margin-bottom: 24px;
+		margin-top: -8.45px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .hr{
+		width: 234px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .port_item_descr{
+		margin-bottom: 36px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont p{
+		font-size: 25.2px;
+		line-height: 32.5px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .button_wrap .button{
+		font-size: 21.6px;
+		padding: 12px 28.9px;
+	}
+	/*Team*/
+	.team .section_content .team_item{
+		margin: 0 auto 50px;
+		width: 370px;
+	}
+	.team .section_content .team_item .team_item_descr strong{
+		font-size: 21px;
+	}
+	.team .section_content .team_item .team_item_descr{
+		margin: 216px 0 0 15px;
+	}
+	.team .section_content .team_item .team_item_descr p{
+		font-size: 18px;
+		line-height: 28px;
+	}
+	/*Price*/
+	.price .section_content .media_768{
+		margin: 0 25%;
+		width: 50%;
+	}
+	/*Footer*/
+	.bottom_footer a{
+		font-size: 16px;
+	}
+	.bottom_footer p{
+		font-size: 16px;
+		margin-top: 30px;
+	}
+	.bottom_footer{
+		padding: 25px 0 35px;
+	}
+}
+
+@media only screen and (max-width : 640px){
+	.main_header .name_text h1{
+		font-size: 66px;
+		line-height: 100px;
+	}	
+	.main_header .name_text span{
+		font-size: 66px;
+	}
+	.main_header .description_text p{
+		font-size: 21px;
+	}
+	/*About*/
+	.about .section_about .section_header .s_description_wrap .s_description{
+		font-size: 32px;
+	}
+	.about .section_about .section_header h2{
+		font-size: 60px;
+	}
+	/*Portfolio*/
+	.portfolio .section_header h2{
+		font-size: 60px;
+	}
+	.portfolio .section_header .s_description_wrap .s_description{
+		font-size: 32px;	
+	}
+	/*Advantages*/
+	.advantages .section_header h2{
+		font-size: 60px;
+	}
+	.advantages .section_header .s_description_wrap .s_description{
+		font-size: 32px;
+	}
+	/*Team*/
+	.team .section_header h2{
+		font-size: 60px;
+	}
+	.team .section_header .s_description_wrap .s_description{
+		font-size: 32px;
+	}
+	/*Price*/
+	.price .section_header h2{
+		font-size: 60px;
+	}
+	.price .section_header .s_description_wrap .s_description{
+		font-size: 32px;
+	}
+	
+	.price .section_content .price_item h3{
+		font-size: 28px;
+	}
+	.price .section_content .media_768{
+		margin: 0 auto;
+		width: 370px;
+	}
+	.price .section_content .media_980{
+		margin: 0 auto;
+		width: 370px;
+	}
+	.price .section_content .price_item .price_item_descr p{
+		font-size: 18px;
+	}
+	/*Reviews*/
+	.reviews .section_header h2{
+		font-size: 60px;
+	}
+	.reviews .section_header .s_description_wrap .s_description{
+		font-size: 32px;
+	}
+
+
+	.main_footer .forma{
+		margin-top: 60px;
+	}
+}
+@media only screen and (max-width : 480px) {
+	/*Header*/
+	.main_header .button_wrap .button{
+		padding: 10px 17px;
+		font-size: 16px;
+	}
+	.main_header .description_text p{
+		font-size: 16px;
+	}
+	.main_header .name_text h1{
+		font-size: 58px;
+		line-height: 75px;
+		margin-bottom: 5px;
+	}
+	.main_header .name_text span{
+		font-size: 58px;
+	}
+	/*About*/
+	.about .section_about .section_header h2{
+		font-size: 50px;
+	}
+	.about .section_about .section_header .s_description_wrap .s_description{
+		font-size: 26.7px;
+	}
+	.about .section_about .section_content p{
+		font-size: 16px;
+	}
+	/*Portfolio*/
+	.portfolio .section_header h2{
+		font-size: 50px;
+	}
+	.portfolio .section_header .s_description_wrap .s_description{
+		font-size: 26.7px;
+	}
+	.portfolio .section_header .s_description_wrap{
+		margin-bottom: 60px;
+	}
+
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .top_string{
+		font-size: 33px;
+		margin-top: 18.7px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont h3{
+		font-size: 22.4px;
+		margin-bottom: 18.7px;
+		margin-top: -6.6px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .hr{
+		width: 181.5px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .port_item_descr{
+		margin-bottom: 27.8px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont p{
+		font-size: 19.6px;
+		line-height: 25px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .button_wrap .button{
+		font-size: 16px;
+		padding: 9px 22px;
+	}
+	/*Advantages*/
+	.advantages .section_header h2{
+		font-size: 50px;
+	}
+	.advantages .section_header .s_description_wrap .s_description{
+		font-size: 26.7px;
+	}
+	.advantages .section_header .s_description_wrap{
+		margin-bottom: 65px;
+	}
+	/*Team*/
+	.team .section_header h2{
+		font-size: 50px;
+	}
+	.team .section_header .s_description_wrap .s_description{
+		font-size: 26.7px;
+	}
+	.team .section_content .application p{
+		font-size: 26px;
+	}
+	.team .section_content .button_wrap .button{
+		font-size: 16px;
+	}
+	/*Price*/
+	.price .section_header h2{
+		font-size: 50px;
+	}
+	.price .section_header .s_description_wrap .s_description{
+		font-size: 26.7px;
+	}
+	.price .section_content .price_item .button_wrap .button{
+		font-size: 16px;
+		padding: 8px 26px;
+	}
+	/*Reviews*/
+	.reviews .section_header h2{
+		font-size: 50px;
+	}
+	.reviews .section_header .s_description_wrap .s_description{
+		font-size: 26.7px;
+	}
+	.reviews .section_content .button_wrap .button{
+		font-size: 16px;
+		padding: 10px 18px;
+	}
+	/*Footer*/
+	.main_footer .forma .main_form .button{
+		font-size: 16px;
+	}
+	.bottom_footer{
+		min-height: 160px;
+	}
+	.main_footer .forma .main_form input{
+		font-size: 16px;
+	}
+}
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+	/*Header*/
+	.main_header .name_text h1{
+		font-size: 37px;
+		line-height: 65px;
+	}
+	.main_header .name_text span{
+		font-size: 38px;
+	}
+	.about{
+		padding-bottom: 20px;
+	}
+	.about .section_about .section_header h2{
+		font-size: 35px;
+		margin-top: 15px;
+	}
+	.about .section_about .section_header .s_description_wrap .s_description{
+		font-size: 19px;
+	}
+	.about .section_about .section_content p{
+		font-size: 15px;
+	}
+
+
+	.portfolio{
+		padding-top: 40px;
+	}
+	.portfolio .section_header h2{
+		font-size: 35px;
+	}
+	.portfolio .section_header .s_description_wrap .s_description{
+		font-size: 19px;
+	}
+
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .top_string{
+		font-size: 21.34px;
+		margin-top: 12px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont h3{
+		font-size: 14.63px;
+		margin-bottom: 12.87px;
+		margin-top: -1.87px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .hr{
+		width: 119.13px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .port_item_descr{
+		margin-bottom: 13.75px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont p{
+		font-size: 12.87px;
+		line-height: 18.37px;
+	}
+	.portfolio .section_content .portfolio_wrap .portfolio_item .port_item_cont .button_wrap .button{
+		font-size: 11px;
+		padding: 6.38px 21.12px;
+	}
+
+	.advantages{
+		padding: 50px 0 45px 0;
+	}
+	.advantages .section_header h2{
+		font-size: 35px;
+	}
+	.advantages .section_header .s_description_wrap .s_description{
+		font-size: 19px;
+	}
+
+	.team{
+		padding: 50px 0 45px 0;
+	}
+	.team .section_header h2{
+		font-size: 35px;
+	}
+	.team .section_header .s_description_wrap .s_description{
+		font-size: 19px;
+	}
+	.team .section_content .team_item{
+		width: 300px;
+	}
+	.team .section_content .team_item .team_item_descr p{
+		font-size: 16px;
+	}
+	.team .section_content .team_item .team_item_descr strong{
+		font-size: 19px;
+	}
+	.team .section_header .s_description_wrap{
+		margin-bottom: 60px;
+	}
+
+	/*Price*/
+	.price{
+		padding: 50px 0 45px 0;
+	}
+	.price .section_header h2{
+		font-size: 35px;
+	}
+	.price .section_header .s_description_wrap .s_description{
+		font-size: 19px;
+	}
+	.price .section_header .s_description_wrap{
+		margin-bottom: 60px;
+	}
+	.price .section_content .price_item{
+		width: 290px;
+	}
+	.price .section_content .price_item h3{
+		font-size: 25px;
+	}
+	.price .section_content .price_item .price_item_descr p{
+		font-size: 17px;
+	}
+	.price .section_content .lh_item_2 h3{
+		line-height: 75px;
+	}
+	.price .section_content .price_item .button_wrap{
+		margin-top: 43px;
+	}
+	.price .section_content .lh_item_3 h3{
+		line-height: 75px;
+	}
+
+	.reviews{
+		padding: 30px 0 45px 0;
+	}
+	.reviews .section_header h2{
+		font-size: 35px;
+	}
+	.reviews .section_header .s_description_wrap .s_description{
+		font-size: 19px;
+	}
+
+	.main_footer .contact_box .contact_box_item .icon_wrap img{
+		height: 70px;
+		width: 70px;
+	}
+	.main_footer .contact_box .contact_box_item .text_wrap p{
+		font-size: 15px;
+	}
+	.main_footer{
+		padding: 55px 0 65px 0;
+	}
+	.main_footer .forma .main_form .form-group .hr{
+		width: 290px;
+	}
+	.main_footer .forma .main_form .button{
+		padding: 12px 34px;
+	}
+}
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+	/*.main_header .toggle_mnu{
+		display: none;
+	}*/
+}
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+	/*.menu .img_position{
+	right: -4%;
+	}*/
+}
